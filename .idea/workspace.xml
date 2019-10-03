@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf5c138b-95f0-4428-97c7-4f1dd184030e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lambda/part03InterfaceInjection/LambdaMessageImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lambda/part03InterfaceInjection/LambdaMessageImpl.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570076473583</updated>
       <workItem from="1570076475285" duration="3182000" />
-      <workItem from="1570118914204" duration="10278000" />
+      <workItem from="1570118914204" duration="10325000" />
     </task>
     <servers />
   </component>

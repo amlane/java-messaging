@@ -5,7 +5,7 @@ public class LambdaMessageImpl implements MessageService
     @Override
     public void sendMessage(String message, String address)
     {
-        System.out.println("For " + address + ": " + message);
+        System.out.println("For: " + address + ": " + message);
     }
 
     @Override
